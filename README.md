@@ -15,9 +15,9 @@
 
 ## CODE
 ### VARIABLE 
-`FPS` frame rate of this game
-`WIDTH,HEIGHT` width and height of game window
-`FONTCOLOR` font color for winner & draw
+-`FPS` frame rate of this game
+-`WIDTH,HEIGHT` width and height of game window
+-`FONTCOLOR` font color for winner & draw
 `BG_COLOR` background color of display window
 `**win**` game window object
 `boxSize` width and hight of every box in game
