@@ -1,7 +1,11 @@
 # TicTacToe
 
+## Module
+  I make this game using [**pygame**](https://www.pygame.org/news) and [**numpy**](https://numpy.org/) and both and not pre-installed in python so before try to run this program has to install both mudule. to install copy this command 
+ `py -3 -m pip install pygame && pip install numpy ` and open cmd and paste this  command there and press enter
+  
 ## DEVELOPMENT
-  For this **TicTacToe** Game project I use [**pygame**](https://www.pygame.org/news) library and [numpy](https://numpy.org/) library.This is fun project for me as work with GUI. this is two player game and without bot player so player and try to create your own new one you.
+  For this **TicTacToe** Game project I use [**pygame**](https://www.pygame.org/news) library and [**numpy**](https://numpy.org/) library.This is fun project for me as work with GUI. this is two player game and without bot player so player and try to create your own new one you.
 
 ## GAME DESCRIPTION
   Tic Tac Toe is a two-player game. In this game, there is a board with 3 x 3 squares.
